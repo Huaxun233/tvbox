@@ -4,7 +4,7 @@
       "key": "aigo",
       "name": "爱果短剧",
       "type": 1,
-      "api": "https://aigo-cms.huangguo-client.workers.dev/api/provide/vod",
+      "api": "https://aigo.aokorin.xyz/api/provide/vod",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
