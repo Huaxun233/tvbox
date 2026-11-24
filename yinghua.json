@@ -1,0 +1,13 @@
+{
+  "sites": [
+    {
+      "key": "yinghua",
+      "name": "樱花动漫",
+      "type": 1,
+      "api": "https://aigo.aokorin.xyz/yh/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
